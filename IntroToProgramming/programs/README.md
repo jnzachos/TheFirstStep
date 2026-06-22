@@ -1,3 +1,3 @@
 # Programs
 
-Here, programs that show exactly how each concept works in practice can be found.
+Here, programs that show how each concept works in practice and can help in understanding them can be found.
