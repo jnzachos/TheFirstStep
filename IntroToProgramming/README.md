@@ -1,1 +1,6 @@
-<h1 align="center">WORK IN PROGRESS</h1>
+![Static Badge](https://img.shields.io/badge/Status-Work%20in%20Progress-orange) ![Static Badge](https://img.shields.io/badge/Language-C-blue)
+
+
+# Intro to Programming
+
+Theory, example programs and solutions to exercises, to help anyone learn programming or improve their programming skills.
