@@ -8,7 +8,7 @@ int main(void) {
 
     /* printf() prints text to the terminal.
        \n is an escape sequence meaning "newline". */
-    printf("Hello, World!\n");
+    printf("Hello World!\n");
 
     /* Returning 0 means "success" to the operating system. */
     return 0;
