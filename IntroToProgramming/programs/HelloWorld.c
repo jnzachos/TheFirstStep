@@ -1,5 +1,5 @@
-#include <stdio.h>   /* Include the standard I/O library.
-                       This gives us printf(). */
+#include <stdio.h>   /* Include the standard I/O header file.
+                        This gives us printf(). */
 
 /* Every C program must have a main() function.
    It is the entry point, where execution begins.
