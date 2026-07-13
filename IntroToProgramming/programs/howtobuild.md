@@ -18,10 +18,10 @@ gcc -S myprogram.i -o myprogram.s
 
 ## Assembly
 ```bash
-gcc -c program.s -o program.o
+gcc -c myprogram.s -o myprogram.o
 ```
 
 ## Linking
 ```bash
-gcc program.o -o program
+gcc myprogram.o -o myprogram
 ```
