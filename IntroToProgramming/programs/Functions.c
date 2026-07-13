@@ -4,7 +4,7 @@
    before we define it below main(). */
 int add(int a, int b);
 int factorial(int n);
-void greet(char name[]); /* void = returns nothing */
+void greet(char name[]);   /* void = returns nothing */
 
 int main(void) {
 
@@ -19,15 +19,15 @@ int main(void) {
    Parameters are local copies - changing them inside
    does not affect the caller's variables. */
 int add(int a, int b) {
-    return a + b; /* sends a value back to the caller */
+    return a + b;   /* sends a value back to the caller */
 }
 
 /* Recursion: a function that calls itself.
    Every recursive function needs a BASE CASE to stop. */
 int factorial(int n) {
-    if (n < 0) return -1; /* negative number was entered */
-    if (n <= 1) return 1; /* base case */
-    return n * factorial(n - 1); /* recursive case */
+    if (n < 0) return -1;   /* negative number was entered */
+    if (n <= 1) return 1;   /* base case */
+    return n * factorial(n - 1);   /* recursive case */
 }
 
 void greet(char name[]) {
