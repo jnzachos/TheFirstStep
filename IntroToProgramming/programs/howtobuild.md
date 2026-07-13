@@ -1,0 +1,27 @@
+# How to build program
+
+```bash
+gcc myprogram.c -o myprogram
+```
+
+# Other options 
+
+## Proprocessing
+```bash
+gcc -E myprogram.c -o myprogram.i
+```
+
+## Compilation
+```bash
+gcc -S myprogram.i -o myprogram.s
+```
+
+## Assembly
+```bash
+gcc -c program.s -o program.o
+```
+
+## Linking
+```bash
+gcc program.o -o program
+```
