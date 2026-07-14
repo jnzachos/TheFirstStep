@@ -1,7 +1,8 @@
-# How to build a program
+# How to build and run a program
 
 ```bash
 gcc myprogram.c -o myprogram
+./myprogram
 ```
 
 # Other options 
