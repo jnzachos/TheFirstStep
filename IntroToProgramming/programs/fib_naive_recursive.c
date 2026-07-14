@@ -32,7 +32,7 @@ int main(void) {
     printf("fib(20) = %lld\n", fib_recursive(20));
 
     /* Show how the call count explodes */
-    for (int n = 5; n <= 35; n += 5) {
+    for (int n = 5; n <= 35; n ++) {
         call_count = 0;
         fib_counting(n);
         printf("fib(%2d): %lld calls\n", n, call_count);
