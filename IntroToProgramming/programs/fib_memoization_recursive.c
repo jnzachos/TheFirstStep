@@ -27,7 +27,7 @@ int main(void) {
       memo[i] = -1; 
     }  /* or memset(memo, -1, sizeof(memo)); instead of the loop*/
 
-    for (int n = 0; n <= 20; n++) {
+    for (int n = 0; n <= 50; n++) {
         printf("fib(%2d) = %lld\n", n, fib_memo(n));
     }
 
