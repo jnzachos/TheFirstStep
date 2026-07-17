@@ -10,7 +10,7 @@ drwxr-xr-x 150 root root 4096 Apr  3 15:20 ..
 -rw-r--r--   1 root root  807 Mar 31  2024 .profile
 ```
 
-So there is nothing in our home directory. This means we will have to search for our file from `root`.
+So there is nothing in our home directory. This means we will have to search for our file from the file system's root (`/`).
 
 What we know:
 - owned by user bandit7
