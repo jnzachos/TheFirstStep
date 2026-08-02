@@ -1,8 +1,8 @@
 # The First Step
 
 <p align="center">
-
-<img width="680" height="470" alt="bestnewlogo" src="https://github.com/user-attachments/assets/a4ee739e-851d-41c1-92d4-bda35e780e16" />
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64F704&width=435&lines=echo+%22Welcome+to+The+First+Step!+%22](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=64F704&width=435&lines=echo+%22Welcome+to+The+First+Step!%22](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64F704&width=435&lines=echo+%22Welcome+to+The+First+Step!%22" />
 
 </p>
 
