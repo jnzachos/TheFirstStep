@@ -6,7 +6,7 @@ The goal of this level is for us to log into the game using `SSH`. The host to w
 
 ---
 
-All we need to do in order to connect to the level is a simple command:
+All we need to do in order to connect to the level is use a simple command:
 
 ```bash
 ssh <user>@<target> -p (argument for port) <port number>
