@@ -27,3 +27,4 @@ bandit4@bandit:~/inhere$ file ./*
 bandit4@bandit:~/inhere$ cat ./-file07
 ...
 ```
+Note: `*` means "all", so we are passing every file in the current directory as an argument to the `file` command at once.
