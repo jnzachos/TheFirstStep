@@ -25,4 +25,4 @@ In order to connect to `bandit1`, we need to disconnect from `bandit0`. To do th
 Now, by using the `ssh` command we learned in the last level and simply changing the user to `bandit1`, we can pass this level!
 
 - Reminder: `ssh <user>@<target> -p <port number>`
-- Note: If you want to learn more about the commands we used, you can use the `man` command. If you want to learn what `man` does, use the `man man` command.
+> **Important Note**: If you want to learn more about the commands we used, you can use the `man` command. If you want to learn what `man` does, use the `man man` command.
