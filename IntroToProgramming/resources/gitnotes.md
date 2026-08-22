@@ -15,11 +15,11 @@ Git is the tool. GitHub is a website that uses that tool.
 
 Without Git, people can easily lose track of the versions of their project and end up with messy files like this:
 
-`project.txt`
+`project.c`
 
-`project_final.txt`
+`project_final.c`
 
-`project_final_final.txt`
+`project_final_final.c`
 
 
 Git avoids this by remembering every version of your project inside one folder, without needing duplicate files.
