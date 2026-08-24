@@ -12,5 +12,5 @@ The First Step is a repository targeted towards beginners, containing writeups a
 
 Especially useful for DIT UoA 1st year students who do not know where to begin, or want to improve their skills, since this repository is designed around the actual needs of the Intro to Programming course.
 
-<h1 align="center">WORK IN PROGRESS</h1>
+ **WORK IN PROGRESS**
 
